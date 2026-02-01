@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\LEGION\Desktop\Final_DS_Project\Project56\Project56\Source.cpp(269,6): warning C4101: 'size': unreferenced local variable
+C:\Users\LEGION\Desktop\Final_DS_Project\Project56\Project56\Source.cpp(134,1): warning C4715: 'linked_list::get_index': not all control paths return a value
+C:\Users\LEGION\Desktop\Final_DS_Project\Project56\Project56\Source.cpp(224,1): warning C4715: 'list::get_course_bycode': not all control paths return a value
+  LINK : C:\Users\LEGION\Desktop\Final_DS_Project\Project56\x64\Debug\Project56.exe not found or not built by the last incremental link; performing full link
+  Project56.vcxproj -> C:\Users\LEGION\Desktop\Final_DS_Project\Project56\x64\Debug\Project56.exe
